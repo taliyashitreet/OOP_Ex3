@@ -2,6 +2,7 @@ from GraphInterface import GraphInterface
 
 
 class DigGraph(GraphInterface):
+    """renanaaaaaaaaaaaaaaaaaaaaaaaaa CIIIIIIIIIIIIIIIII"""
     def _init_(self):
         self.nodes = {}
         self.edgesAmount = 0
